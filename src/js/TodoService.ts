@@ -1,3 +1,11 @@
+/*
+ * @Author: your name
+ * @Date: 2021-06-14 10:02:10
+ * @LastEditTime: 2021-06-14 18:41:13
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \cloudapp-dashboardd:\blibli\tsVue3Vite\src\js\TodoService.ts
+ */
 import $ from 'jquery';
 import { ITodoData } from './typing';
 
